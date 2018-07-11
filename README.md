@@ -8,4 +8,6 @@ A bunch of useful macOS terminal commands for developers
 - Restart Finder
 
 ```killall Finder```
-
+# Diplay current working path
+- Just type this
+```pwd```
